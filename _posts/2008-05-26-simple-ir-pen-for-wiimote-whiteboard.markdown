@@ -10,7 +10,7 @@ A better approach would be to do what [Johnny Lee](http://www.cs.cmu.edu/~johnny
 
 The barrier of entry to the Wiimote Whiteboard is creating the IR pen. Johnny Lee suggests wiring up a circuit containing an IR LED, momentary switch, resistor, and power supply, then shoving it into a pen. If you google “IR pen” you will also come up with some complicated solutions. One guy even tried to cram the circuit into a highlighter casing.
 
-![Image 1]({{ site.url }}/2008/05/26/simple-ir-pen-for-wiimote-whiteboard/1.jpg)
+![Image 1]({{ site.url }}/assets/2008/05/26/simple-ir-pen-for-wiimote-whiteboard/1.jpg)
 
 My solution is really quite straightforward. In fact you only need to go to your local electronics store and pick up two items: an LED keyring torch; and an IR LED. When purchasing an LED keyring torch, make sure that you can easily replace the LED. I used this [LED keyring torch](http://jaycar.com.au/productView.asp?ID=ST3048&CATID=&keywords=led+torch&SPECIAL=&form=KEYWORD&ProdCodeOnly=&Keyword1=&Keyword2=&pageNumber=&priceMin=&priceMax=&SUBCATID=) from Jaycar Electronics. I then pulled the torch apart, pulled out the LED, and replaced it with an [IR LED](http://jaycar.com.au/productView.asp?ID=ZD1945&CATID=&keywords=infrared+LED&SPECIAL=&form=KEYWORD&ProdCodeOnly=&Keyword1=&Keyword2=&pageNumber=&priceMin=&priceMax=&SUBCATID=). This solution meant I didn’t have to do any soldering or fiddling around. It all fit together into a nice compact form factor that cost me less than $10, and took no longer than 10 minutes to switch the LED.
 
