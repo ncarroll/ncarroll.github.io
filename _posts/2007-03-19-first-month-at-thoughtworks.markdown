@@ -4,6 +4,8 @@ title:  "First Month At ThoughtWorks"
 date:   2007-03-19 23:25:00
 ---
 
+UPDATE: [I no longer work at ThoughtWorks]({{ site.url }}/2010/01/05/last-month-at-thoughtworks/).
+
 I have just completed my first month at [ThoughtWorks](http://www.thoughtworks.com/), a milestone for me that is worth blogging about. The month has gone by so quickly, mostly because I am thoroughly enjoying the work, the people I work with, and the culture that attracts so many people to ThoughtWorks like a moth to a flame. Since top ten lists are in vogue, I will give a list of reasons why I have enjoyed my first month.
 
 1. Other ThoughtWorkers: I have had the chance to work with some of the most incredible software developers that I have ever met. These guys and gals really know how to thrash a keyboard around when pumping out quality code. It has to be said that working with really talented individuals makes work very enjoyable. Which goes to show that [Roy’s social experiment](http://www.martinfowler.com/bliki/RoysSocialExperiment.html) is still going strong after all these years.
