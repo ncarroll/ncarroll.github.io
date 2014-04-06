@@ -10,7 +10,7 @@ I have just completed my first month at [ThoughtWorks](http://www.thoughtworks.c
 
 2. Ruby is such a cool programming language and I am so glad that I am working at a company that has completely embraced it. Ruby has been around in the US and Europe for a while, but it is still relatively new in Australia. I am waiting impatiently for the Aussie tech industry to catch up so that I can finally work on a Ruby project.
 
-  Meanwhile I have been ramping up on my Ruby skills, and there is no better place in Australia for learning Ruby. We have some of the best Ruby developers working in Sydney at the new ThoughtWorks Studios, and they open their doors after work each week for us to work on a Ruby project with them.
+    Meanwhile I have been ramping up on my Ruby skills, and there is no better place in Australia for learning Ruby. We have some of the best Ruby developers working in Sydney at the new ThoughtWorks Studios, and they open their doors after work each week for us to work on a Ruby project with them.
 
 3. Agile is certainly an interesting approach to developing software. I have already been thrown head first into a large agile software development project, and I am already hooked on the agile koolaid. Over the weekend our client deployed the first release in time for a public launch of their system. It is the first large scale project that I have worked on, and it was a success right off the bat. The release was completed on-time, on-budget, and with 5 times less defects than any of their previous projects. Being part of a team that produced a result like this certainly made my first month a memorable one.
 
