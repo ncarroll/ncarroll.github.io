@@ -62,7 +62,10 @@ Line 7 serialises the data from the form input fields using the JQuery serialize
 
 Line 8 specifies the URL to post to. I use the utility method from the comments framework to retrieve this for me, so I don’t need to hard code it to a specific URL. The comment_form_target should retrieve the correct URL for the comments application that you should have configured in your urls.py file. If not then add the following URL route to your urls.py file.
 
+{% highlight %}
     (r'^comments/', include('django.contrib.comments.urls')),
+{% endhighlight %}
+
 Line 10 specifies that the response will be HTML. This is necessary so that JQuery knows how to parse and handle the response.
 
 Line 11 details the success callback, which is the function that calls when the response is successful. The callback simply replaces the form in the div wrapper with the response. A successful response could either be a “thank you” message for posting a comment, or a form displaying fields with invalid fields. Line 13 is necessary to rebind the bindPostCommentHandler() function to any new form that appears in the div wrapper. If you omit this rebinding, then you will lose ajax posts on successive submits.
