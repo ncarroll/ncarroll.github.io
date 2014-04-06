@@ -11,6 +11,7 @@ If you followed my previous post on getting the Wiimote to work with Ubuntu, the
 To get started you need a USB cable, four infrared LEDs, LED holders, aluminium tubing, electrical tape or heat shrink tubing, and a laptop.
 
 Image 1
+!({{ site.url }}/assets/2008/03/22/custom-built-us2008/03/22/custom-built-usb-sensor-bar/1.jpg)
 
 The USB Sensor Bar is a simple serial circuit that consists of four infrared LEDs that are grafted to an old USB cable.
 
