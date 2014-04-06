@@ -4,7 +4,7 @@ title:  "One click deployment with Maven and Bamboo"
 date:   2010-02-26 13:00:00
 ---
 
-A while back I wrote about achieving continuous deployment with one-click deployments. I didn’t provide an example for that post as I mostly wrote about why you need to achieve continuous deployment. Here I will follow up with a simple example of how you can achieve continuous deployment.
+A while back I wrote about [achieving continuous deployment with one-click deployments]({{ site.url }}/2009/06/16/achieving-continuous-deployment-with-one-click-deployments/). I didn’t provide an example for that post as I mostly wrote about why you need to achieve continuous deployment. Here I will follow up with a simple example of how you can achieve continuous deployment.
 
 Continuous deployment is quite easy to setup if you are using a typical Maven project structure and Bamboo as your continuous integration tool. Also I am assuming that you want to deploy your application to a tomcat server.
 
