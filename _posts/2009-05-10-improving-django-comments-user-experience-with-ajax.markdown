@@ -31,7 +31,7 @@ function bindPostCommentHandler() {
         $.ajax({
             type: "POST",
             data: $('#comment_form form').serialize(),
-            url: "{% comment_form_target %}",
+            url: "\{\% comment_form_target \%\}",
             cache: false,
             dataType: "html",
             success: function(html, textStatus) {
