@@ -14,10 +14,10 @@ First I use the utility methods from the comments framework to list all comments
 
 {% highlight html %}
 <h3>Comment</h3>
-    \{\% load comments \%\}
-    \{\% get_comment_form for discussion as form \%\}
+    &#123;% load comments %&#125;
+    &#123;% get_comment_form for discussion as form %&#125;
     <div id="comment_form">
-    \{\% render_comment_form for discussion \%\}
+    &#123;% render_comment_form for discussion %&#125;
 </div>
 {% endhighlight %}
 
@@ -31,7 +31,7 @@ function bindPostCommentHandler() {
         $.ajax({
             type: "POST",
             data: $('#comment_form form').serialize(),
-            url: "\{\% comment_form_target \%\}",
+            url: "&#123;% comment_form_target %&#125;",
             cache: false,
             dataType: "html",
             success: function(html, textStatus) {
