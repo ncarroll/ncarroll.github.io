@@ -8,7 +8,7 @@ Goodbye Windows, and welcome back Ubuntu my long lost friend. Finally after a ye
 
 Furthermore, I made the switch because developing Ruby on Rails applications on Windows is such a pain, and most developers know this, so they go out and buy Macs. Well my friends, you can save your dosh and turn your stock standard Dell into a kick arse development environment for Rails. Just check out the screenshot of my desktop below.
 
-![Image 1](http://www.flickr.com/photos/ncarroll/2243502708/)
+![Image 1]({{ site.url }}/assets/2008/02/05/ruby-on-rails-development-with-gedit/1.jpg)
 
 I am using Ubuntu Gutsy Gibbon with Compiz and Emerald. I also have AWN installed for the dock functionality. For Ruby on Rails development I am using a tweaked version of Gedit with plugins that provide much of the functionality of Textmate and more. You can also get Gedit to recognise rhtml files, and provide a real terminal for handy access to command line functionality in the bottom pane.
 
