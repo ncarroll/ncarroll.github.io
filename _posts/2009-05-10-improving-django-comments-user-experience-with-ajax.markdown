@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Improving Django Comments’ User Experience with AJAX"
+title:  "Improving Django Comments User Experience with AJAX"
 date:   2009-05-10 20:20:00
 ---
 
