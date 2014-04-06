@@ -3,10 +3,4 @@ url: http://nickcarroll.me
 markdown: redcarpet
 pygments: true
 permalink: pretty
-sitemap:
-    file: "/sitemap.xml"
-    include_posts:
-        - "/index.html"
-    change_frequency_name: "change_frequency"
-    priority_name: "priority
 "
