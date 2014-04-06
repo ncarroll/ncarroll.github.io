@@ -23,7 +23,7 @@ First I use the utility methods from the comments framework to list all comments
 
 In my template (discussion.html) in which I want to allow people to comment on something I add the following to a script block that will insert the JavaScript into the head element of the base template (base.html).
 
-{% highlight js %}
+{% highlight js linenos %}
 <script type="text/javascript" charset="utf-8">
 function bindPostCommentHandler() {
     $('#comment_form form input.submit-preview').remove();
@@ -62,9 +62,7 @@ Line 7 serialises the data from the form input fields using the JQuery serialize
 
 Line 8 specifies the URL to post to. I use the utility method from the comments framework to retrieve this for me, so I don’t need to hard code it to a specific URL. The comment_form_target should retrieve the correct URL for the comments application that you should have configured in your urls.py file. If not then add the following URL route to your urls.py file.
 
-{% highlight %}
-    (r'^comments/', include('django.contrib.comments.urls')),
-{% endhighlight %}
+(r'^comments/', include('django.contrib.comments.urls')),
 
 Line 10 specifies that the response will be HTML. This is necessary so that JQuery knows how to parse and handle the response.
 
