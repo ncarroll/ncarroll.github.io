@@ -1,4 +1,5 @@
-yout: post
+---
+layout: post
 title:  "Gradle Android Plugin"
 date:   2010-04-26 17:30:00
 ---
