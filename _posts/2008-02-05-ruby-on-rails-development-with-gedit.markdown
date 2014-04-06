@@ -10,6 +10,6 @@ Furthermore, I made the switch because developing Ruby on Rails applications on 
 
 ![Image 1]({{ site.url }}/assets/2008/02/05/ruby-on-rails-development-with-gedit/1.jpg)
 
-I am using Ubuntu Gutsy Gibbon with Compiz and Emerald. I also have AWN installed for the dock functionality. For Ruby on Rails development I am using a tweaked version of Gedit with plugins that provide much of the functionality of Textmate and more. You can also get Gedit to recognise rhtml files, and provide a real terminal for handy access to command line functionality in the bottom pane.
+I am using Ubuntu Gutsy Gibbon with Compiz and Emerald. I also have [AWN](https://launchpad.net/awn) installed for the dock functionality. For Ruby on Rails development I am using a tweaked version of Gedit with plugins that provide much of the functionality of Textmate and more. You can also get Gedit to recognise rhtml files, and provide a real terminal for handy access to command line functionality in the bottom pane.
 
 Sadly I have to keep my Windows partition around for Lotus Notes, but for not much longer. The next release of Lotus Notes will provide support for Ubuntu, and is due out around the middle of this year. Only a few more months until I can completely blow away my Windows partition!
