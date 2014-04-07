@@ -2,7 +2,7 @@
 name:           Nick Carroll
 title:          Nick Carroll
 tagline:        'Software Professional'
-description:    'I work for [Covata](https://covata.com), but the opinions expressed here are my own, and no other party necessarily agrees with them.'
+description:    'I work for <a href="https://covata.com" target="_blank">Covata</a>, but the opinions expressed here are my own, and no other party necessarily agrees with them.'
 url:            http://nickcarroll.me
 
 # Dependencies
