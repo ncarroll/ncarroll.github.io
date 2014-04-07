@@ -10,16 +10,16 @@ If you followed my previous post on getting the Wiimote to work with Ubuntu, the
 
 To get started you need a USB cable, four infrared LEDs, LED holders, aluminium tubing, electrical tape or heat shrink tubing, and a laptop.
 
-![Image 1]({{ site.url }}/assets/2008/03/22/custom-built-usb-sensor-bar/1.jpg)
+![Image 1]({{ site.url }}/public/img/assets/2008/03/22/custom-built-usb-sensor-bar/1.jpg)
 
 The USB Sensor Bar is a simple serial circuit that consists of four infrared LEDs that are grafted to an old USB cable.
 
-![Image 2]({{ site.url }}/assets/2008/03/22/custom-built-usb-sensor-bar/2.jpg)
+![Image 2]({{ site.url }}/public/img/assets/2008/03/22/custom-built-usb-sensor-bar/2.jpg)
 
 You may need to add a resistor into the circuit if your LEDs don’t produce a voltage drop of 5 Volts, which is the standard power source for USB devices. It is worth testing your circuit design on a circuit board as shown below.
 
-![Image 3]({{ site.url }}/assets/2008/03/22/custom-built-usb-sensor-bar/3.jpg)
+![Image 3]({{ site.url }}/public/img/assets/2008/03/22/custom-built-usb-sensor-bar/3.jpg)
 
 The circuit is then squeezed into a tight-fitting aluminium tubing that is cut to about 30cm in length. The USB cable hangs out one end of the tubing, and the LEDs sit in LED holders that have been positioned into some neatly drilled holes. The completed USB Sensor Bar is pictured below.
 
-![Image 4]({{ site.url }}/assets/2008/03/22/custom-built-usb-sensor-bar/4.jpg)
+![Image 4]({{ site.url }}/public/img/assets/2008/03/22/custom-built-usb-sensor-bar/4.jpg)
