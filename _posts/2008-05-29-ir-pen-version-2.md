@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "IR Pen version 2"
-date:   2008-05-29 22:13:00
+layout:     post
+title:      "IR Pen version 2"
+date:       2008-05-29 22:13:00
+comments:   true
 ---
 
 My previous attempt at building a [simple IR pen]({{ site.url }}/2008/05/26/simple-ir-pen-for-wiimote-whiteboard) did not work as expected. The power source was too weak for the IR LED, and consequently the Wiimote had difficulty detecting the IR light.

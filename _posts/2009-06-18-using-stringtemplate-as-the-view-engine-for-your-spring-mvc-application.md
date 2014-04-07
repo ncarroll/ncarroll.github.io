@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Using StringTemplate as the view engine for your Spring MVC application"
-date:   2009-06-18 18:03:00
+layout:     post
+title:      "Using StringTemplate as the view engine for your Spring MVC application"
+date:       2009-06-18 18:03:00
+comments:   true
 ---
 
 I wish I never discovered Django templates because I shudder every time I have to use Freemarker or Velocity for my Spring MVC applications. Fortunately there is an alternative. You can use StringTemplate to generate your views in Spring MVC quite easily. StringTemplate enforces a strict separation of concerns, which therefore minimises the amount of logic that is allowed in the view, thus forcing you to do more in your controllers. Therefore your view remains purely for presentation purposes.

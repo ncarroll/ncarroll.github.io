@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Fast NTLM authentication proxy with tunneling"
-date:   2011-09-01 14:18:00
+layout:     post
+title:      "Fast NTLM authentication proxy with tunneling"
+date:       2011-09-01 14:18:00
+comments:   true
 ---
 
 If you are using Linux behind a corporate firewall that only supports Windows, and the Windows proxy authentication is causing you pain, then I suggest installing and using CNTLM.

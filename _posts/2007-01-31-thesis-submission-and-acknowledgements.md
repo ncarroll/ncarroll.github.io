@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Thesis Submission and Acknowledgements"
-date:   2007-01-31 13:45:00
+layout:     post
+title:      "Thesis Submission and Acknowledgements"
+date:       2007-01-31 13:45:00
 ---
 
 Today I submitted my PhD thesis for examination. The accomplishment won’t sink in until a few more days, but I feel good about it nontheless. It has taken me close to 4 years to complete, which breaks down to about three and a half years of research and development, plus six months of thesis writing. I have produced a thesis dissertation, two journal papers, a book chapter, six conference papers, and several thousand lines of code.

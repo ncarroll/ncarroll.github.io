@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Improving Django Comments User Experience with AJAX"
-date:   2009-05-10 20:20:00
+layout:     post
+title:      "Improving Django Comments User Experience with AJAX"
+date:       2009-05-10 20:20:00
+comments:   true
 ---
 
 I really like Django. It is not bloated like a lot of other frameworks, and it has a healthy balance between convention and configuration. As a developer I want to be able to use the tools that I want to use, and not be forced into a specific way of doing things. An example of this in Django is the comments framework that is part of django.contrib. The comments framework provides the infrastructure for attaching comments to any domain model in your Django project through content types. It also provides a few spam prevention features that you should consider leveraging, such as a security hash or a hidden honeypot field. However, the default comments form is rather bare, and the workflow for posting a comment requires too many clicks and redirects.

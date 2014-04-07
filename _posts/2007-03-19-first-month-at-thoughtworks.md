@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "First Month At ThoughtWorks"
-date:   2007-03-19 23:25:00
+layout:     post
+title:      "First Month At ThoughtWorks"
+date:       2007-03-19 23:25:00
 ---
 
 UPDATE: [I no longer work at ThoughtWorks]({{ site.url }}/2010/01/05/last-month-at-thoughtworks/).

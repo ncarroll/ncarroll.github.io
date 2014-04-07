@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Simple IR Pen for Wiimote Whiteboard"
-date:   2008-05-26 23:54:00
+layout:     post
+title:      "Simple IR Pen for Wiimote Whiteboard"
+date:       2008-05-26 23:54:00
+comments:   true
 ---
 
 My previous foray into using a Wiimote with my laptop led me down the path of building a USB sensor bar so that I can use the Wiimote to control the pointer movements. This approach worked better than expected, but it doesn’t work so well if you want finer control of your mouse pointer. For example, when I was demonstrating the Wiimote integration with my laptop I was quite nervous about the demo not working, and this was made apparent by the shaky lines that I was drawing with the Mouse Gestures. As a result some of the Mouse Gestures did not register.

@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Last month at ThoughtWorks"
-date:   2010-01-05 9:09:00
+layout:     post
+title:      "Last month at ThoughtWorks"
+date:       2010-01-05 9:09:00
 ---
 
 I was sifting through my blog entries during the holidays and came across my post three years ago about my [first month at ThoughtWorks]({{ site.url }}/2007/03/19/first-month-at-thoughtworks/). After reading it I felt it needed an update, otherwise I probably wouldn’t have left the company if the list was still accurate. My last day at ThoughtWorks was 24th December 2009.

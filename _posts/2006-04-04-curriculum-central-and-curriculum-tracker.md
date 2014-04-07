@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Curriculum Central and Curriculum Tracker"
-date:   2006-04-04 19:25:00
+layout:     post
+title:      "Curriculum Central and Curriculum Tracker"
+date:       2006-04-04 19:25:00
+comments:   true
 ---
 
 It has been a hard slog over the past couple of months working on [Curriculum Central](http://cvs.openacs.org/cvs/openacs-4/packages/curriculum-central/) and [Curriculum Tracker](http://cvs.openacs.org/cvs/openacs-4/packages/curriculum-tracker/). Finally, I have committed both to the OpenACS CVS repository.
