@@ -1,5 +1,21 @@
-name: Nick Carroll
-url: http://nickcarroll.me
-markdown: redcarpet
-pygments: true
-permalink: pretty
+# Setup
+name:           Nick Carroll
+title:          Nick Carroll
+tagline:        'Software Professional'
+description:    ''
+url:            http://nickcarroll.me
+
+# Dependencies
+markdown:       redcarpet
+pygments:       true
+
+# Permalinks
+permalink:      pretty
+
+# Pagination
+paginate:       5
+
+# About
+author:
+    name:           'Nick Carroll'
+    url:            http://nickcarroll.me
