@@ -6,10 +6,10 @@ __Checkbox__
 
 [Checkbox](http://itunes.apple.com/us/app/checkbox/id508746628?ls=1&mt=8) allows you to take a photo of your task list, add checkboxes to the photo, and track the tasks that you have completed.
 
-![Image 1]({{ site.url }}/public/img/assets/apps/checkbox/1.jpg)
-![Image 2]({{ site.url }}/public/img/assets/apps/checkbox/2.jpg)
-![Image 3]({{ site.url }}/public/img/assets/apps/checkbox/3.jpg)
-![Image 4]({{ site.url }}/public/img/assets/apps/checkbox/4.jpg)
+<img class="inline" src="{{ site.url }}/public/img/assets/apps/checkbox/1.jpg" alt="Image 1">
+<img class="inline" src="{{ site.url }}/public/img/assets/apps/checkbox/2.jpg" alt="Image 2">
+<img class="inline" src="{{ site.url }}/public/img/assets/apps/checkbox/3.jpg" alt="Image 3">
+<img class="inline" src="{{ site.url }}/public/img/assets/apps/checkbox/4.jpg" alt="Image 4">
 
 Use Checkbox to quickly capture your shopping list on your fridge, the meeting actions jotted on your notebook, or the menu of your favourite restaurant. Then turn the photo into a checklist by adding checkboxes to items in the photo that you want to track. Simply tap on the checkboxes to keep track of tasks that you have previously completed.
 
