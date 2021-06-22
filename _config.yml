@@ -6,8 +6,7 @@ description:    'I work for <a href="https://www.linkedin.com/company/viki" targ
 url:            http://nickcarroll.me
 
 # Dependencies
-markdown:       redcarpet
-pygments:       true
+
 
 # Permalinks
 permalink:      pretty
