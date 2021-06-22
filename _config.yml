@@ -19,3 +19,5 @@ paginate:       5
 author:
     name:           'Nick Carroll'
     url:            http://nickcarroll.me
+
+theme: jekyll-theme-cayman
