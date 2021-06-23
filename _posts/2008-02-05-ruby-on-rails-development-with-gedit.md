@@ -2,7 +2,6 @@
 layout:     post
 title:      "Ruby on Rails Development with Gedit"
 date:       2008-02-05 20:45:49
-comments:   true
 ---
 
 Goodbye Windows, and welcome back Ubuntu my long lost friend. Finally after a year of working with Windows I managed to find some time to get rid of it and install Ubuntu on my work laptop instead. I can’t tell you how much I missed not having apt-get! I am absolutely thrilled to be using Ubuntu again, and with Compiz now a part of Gutsy Gibbon I no longer have OS X envy anymore. Really I don’t, I haven’t touched my eMac in days, mostly due to wasting so much time tweaking Gnome with eye candy that my eyes hurt.

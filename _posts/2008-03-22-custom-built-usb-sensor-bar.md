@@ -2,7 +2,6 @@
 layout:     post
 title:      "Custom built USB Sensor Bar"
 date:       2008-03-22 13:19:00
-comments:   true
 ---
 
 I had a few days off work to recharge the batteries and was looking forward to heading to the beach, but ended up taking a rain check due to the bad weather. Sydney just had the wettest Summer in years, which was good in a way as it ended up breaking the drought and putting water in the dams. So to make the most of my time off I decided to build my own USB Sensor Bar so that I could get a Wiimote working with my laptop.

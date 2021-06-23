@@ -2,7 +2,6 @@
 layout:     post
 title:      "Setting up VMWare shared folders on Ubuntu guest"
 date:       2012-09-18 15:16:00
-comments:   true
 ---
 
 For some reason Ubuntu 12.04 is unable to complete the VMware tools automatically. I discovered this by checking if the hgfs module was loaded using the following command.

@@ -2,7 +2,6 @@
 layout:     post
 title:      "Connecting Nintendo Wii wirelessly to Apple Airport Express"
 date:       2007-04-15 23:14:00
-comments:   true
 ---
 
 Connecting the Nintendo Wii to the Internet is quite easy, especially if you are connecting to an Apple Airport Express. However, if you don’t properly configure the Airport Express, then you will suffer slow downloads and constant timeout errors on your Wii. All you really need to do is configure the Airport Express so that the Channel option is set to 1 instead of Automatic in the AirPort tabbed page, then update the configuration of your Airport Express. Simple as that.

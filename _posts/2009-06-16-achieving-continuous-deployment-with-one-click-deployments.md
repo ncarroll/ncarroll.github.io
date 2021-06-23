@@ -2,7 +2,6 @@
 layout:     post
 title:      "Achieving continuous deployment with one click deployments"
 date:       2009-06-16 14:52:00
-comments:   true
 ---
 
 It makes me very happy to see others [championing continuous deployment](http://startuplessonslearned.blogspot.com/2009/06/why-continuous-deployment.html). Apparently the developers at [IMVU](http://www.imvu.com/) release into production a number of times a day, as often as 50 releases in a day. Smells like a lot of bug fixing than new features, but at the very least they have a lean process for releasing into production. I believe having the capability to release into production as often as possible is more important than having a process that draws out the length of time that it takes to release into production.
