@@ -4,7 +4,7 @@ title:      "Now, Discover your Strengths"
 date:       2007-09-04 01:00:00
 ---
 
-Today I finally took the [Strengths Finder](http://www.strengthsfinder.com/) test to identify where my strengths may lie. The questionnaire asks about 100 questions in which you identify statements in which you strongly agree with. It takes about 20 minutes to complete and at the end you are provided with a profile that describes your top 5 strengths out of a possible 34. All 34 strengths have been identified as core themes by the Gallup International Research & Education Centre from conducting 2 million interviews over a period of 30 years. These strengths are described in [Now, Discover your Strengths](http://gmj.gallup.com/book_center/NDYS/default.aspx) by Marcus Buckingham and Donald O. Clifton.
+Today I finally took the [Strengths Finder](https://www.strengthsfinder.com/) test to identify where my strengths may lie. The questionnaire asks about 100 questions in which you identify statements in which you strongly agree with. It takes about 20 minutes to complete and at the end you are provided with a profile that describes your top 5 strengths out of a possible 34. All 34 strengths have been identified as core themes by the Gallup International Research & Education Centre from conducting 2 million interviews over a period of 30 years. These strengths are described in [Now, Discover your Strengths](https://gmj.gallup.com/book_center/NDYS/default.aspx) by Marcus Buckingham and Donald O. Clifton.
 
 After completing the Strengths Finder questionnaire my strengths were found to be the following.
 

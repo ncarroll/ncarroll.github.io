@@ -8,11 +8,11 @@ If you are using Linux behind a corporate firewall that only supports Windows, a
 
 The problem I was experiencing behind my corporate firewall is that I need to authenticate using the windows domain prepended to my username. It seems that you are not able to have a backslash in your username when setting your http_proxy environment variable using the below format.
 
-http://username:password@host:port/
+https://username:password@host:port/
 
 In other words I was getting strange errors when using the following in my .bash_profile.
 
-export http_proxy=http://domainusername:password@host.com/
+export http_proxy=https://domainusername:password@host.com/
 
 You can’t escape the backslash, nor wrap everything in quotes etc. The only solution I came across was to use an NTLM authentication proxy such as CNTLM, which is a fast NTLM authentication proxy written in C. The Ubuntu package is described as follows.
 

@@ -4,12 +4,12 @@ title:      "Gradle Android Plugin"
 date:       2010-04-26 17:30:00
 ---
 
-I have recently joined a newly formed team developing Android applications at a large telco, and I am pleased to announce that we are using Gradle for our builds. We are using Gradle with the [Android plugin](http://github.com/jvoegele/gradle-android-plugin), and instantly we managed to build a simple application, run tests, and have it installed on a device. Our build script simply looks like the following, which is all that is necessary to use the Android plugin.
+I have recently joined a newly formed team developing Android applications at a large telco, and I am pleased to announce that we are using Gradle for our builds. We are using Gradle with the [Android plugin](https://github.com/jvoegele/gradle-android-plugin), and instantly we managed to build a simple application, run tests, and have it installed on a device. Our build script simply looks like the following, which is all that is necessary to use the Android plugin.
 
 {% highlight groovy %}
 buildscript {
   repositories {
-    mavenRepo(urls: 'http://jvoegele.com/maven2/')
+    mavenRepo(urls: 'https://jvoegele.com/maven2/')
   }
   dependencies {
     classpath 'com.jvoegele.gradle.plugins:android-plugin:0.8'

@@ -3,7 +3,7 @@ name:           Nick Carroll
 title:          Nick Carroll
 tagline:        'Software Professional'
 description:    'I work for <a href="https://www.linkedin.com/company/viki" target="_blank">Rakuten Viki</a>, but the opinions expressed here are my own, and no other party necessarily agrees with them.'
-url:            http://nickcarroll.me
+url:            https://nickcarroll.me
 
 # Dependencies
 
@@ -17,6 +17,6 @@ paginate:       5
 # About
 author:
     name:           'Nick Carroll'
-    url:            http://nickcarroll.me
+    url:            https://nickcarroll.me
 
 theme: jekyll-theme-cayman

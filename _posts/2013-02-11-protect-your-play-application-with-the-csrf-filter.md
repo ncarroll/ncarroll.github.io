@@ -4,7 +4,7 @@ title:      "Protect your Play! application with the CSRF filter"
 date:       2013-02-11 19:21:00
 ---
 
-Play! 2.1 introduces a new filters API and [Cross Site Request Forgery (CSRF) protection](http://www.playframework.com/documentation/2.1.0/Highlights).  The CSRF filter is not well documented and it took a while to work out how to enable it in my Play! application.  It took a bit of digging through the Play! source code and looking through the [CSRF tests](https://github.com/playframework/Play20/tree/master/framework/test/csrftest-scala) to work out how to use the CSRF filter.  Below is a summary of what is required to protect your Play! 2.1 application with the new CSRF filter.
+Play! 2.1 introduces a new filters API and [Cross Site Request Forgery (CSRF) protection](https://www.playframework.com/documentation/2.1.0/Highlights).  The CSRF filter is not well documented and it took a while to work out how to enable it in my Play! application.  It took a bit of digging through the Play! source code and looking through the [CSRF tests](https://github.com/playframework/Play20/tree/master/framework/test/csrftest-scala) to work out how to use the CSRF filter.  Below is a summary of what is required to protect your Play! 2.1 application with the new CSRF filter.
 
 First of all add the filters module to your app dependencies in appname/project/Build.scala.
 

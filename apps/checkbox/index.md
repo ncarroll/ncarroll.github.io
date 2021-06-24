@@ -4,7 +4,7 @@ layout: page
 
 __Checkbox__
 
-[Checkbox](http://itunes.apple.com/us/app/checkbox/id508746628?ls=1&mt=8) allows you to take a photo of your task list, add checkboxes to the photo, and track the tasks that you have completed.
+[Checkbox](https://itunes.apple.com/us/app/checkbox/id508746628?ls=1&mt=8) allows you to take a photo of your task list, add checkboxes to the photo, and track the tasks that you have completed.
 
 <img class="inline" src="{{ site.url }}/public/img/assets/apps/checkbox/1.jpg" alt="Image 1">
 <img class="inline" src="{{ site.url }}/public/img/assets/apps/checkbox/2.jpg" alt="Image 2">

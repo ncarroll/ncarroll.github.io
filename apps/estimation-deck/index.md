@@ -4,7 +4,7 @@ layout: page
 
 __Estimation Deck__
 
-[Estimation Deck](http://itunes.apple.com/us/app/estimation-deck/id506612646?ls=1&mt=8) provides a set of fibonacci numbers that can be used during an Agile estimation session.
+[Estimation Deck](https://itunes.apple.com/us/app/estimation-deck/id506612646?ls=1&mt=8) provides a set of fibonacci numbers that can be used during an Agile estimation session.
 
 <img class="inline" src="{{ site.url }}/public/img/assets/apps/estimation-deck/1.jpg" alt="Image 1">
 <img class="inline" src="{{ site.url }}/public/img/assets/apps/estimation-deck/2.jpg" alt="Image 2">
